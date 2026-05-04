@@ -40,7 +40,7 @@ That project looks good but it depends on
 other dependencies[^1]. It also provides a server and client implementation in
 one library. This library only needs a client.
 
-> ![NOTE]
+> [!NOTE]
 > This is not true anymore: `elixir-grpc/grpc` has supported a Mint adapter since v0.6.0
 > and the client and server are not split into separate packages.
 
